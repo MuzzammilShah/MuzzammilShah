@@ -1,5 +1,11 @@
 <h2 align="left"> Hello, I'm Muzzammil :) </h2>
 <h3 align="left"> AI ENGINEER  | 📍Silicon Valley of India</h3>
+&nbsp;
+
+It all started back in 2012 when I first saw my uncle working his magic with lines of code (lowkey a Tony Stark vibes moment). Since then, I’ve been hooked on programming!
+&nbsp;
+
+Fast forward to today, and I’m proud to be working as an AI Engineer, developing smart tools and creating systems that breathe life into AI applications. Through it all, I still keep my uncle’s favorite Steve Jobs quote close to heart: "*Stay Hungry. Stay Foolish.*"
 
 &nbsp;
 
@@ -44,10 +50,16 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/[YourGitHubUsername]">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=github-dark-blue&hide_border=true" />
+  <a href="https://github.com/MuzzammilShah">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuzzammilShah&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
 <p align="center">
-  🚀 Always learning and building cool stuff!
+  I am keeping this stat to motivate myself :)
+</p>
+
+---
+
+<p align="center">
+  🚀 Work Hard. Have Fun. Make History!
 </p>
