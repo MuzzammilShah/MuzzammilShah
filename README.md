@@ -66,16 +66,19 @@ Fast forward to today, and I’m proud to be working as an AI Engineer, developi
 
 ---
 
+<div align="center">
+  <a href="https://github.com/MuzzammilShah" style="text-decoration: none;">
+    <img src="https://komarev.com/ghpvc/?username=MuzzammilShah&style=for-the-badge&color=000000&label=Profile%20views&logo=github&logoColor=white" alt="Profile views"/>
+  </a>
+</div>
 <p align="center">
   <a href="https://github.com/MuzzammilShah">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuzzammilShah&theme=github-dark-blue&hide_border=true" />
   </a>
 </p>
-<p align="center">
-  I am keeping this stat to motivate myself :)
-</p>
-
----
+<!-- <p align="center">
+  I am keeping these stats as a personal reference :)
+</p> -->
 
 <p align="center">
   🚀 Work Hard. Have Fun. Make History!
