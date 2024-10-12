@@ -12,29 +12,37 @@ Fast forward to today, and I’m proud to be working as an AI Engineer, developi
 ### Active Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
+  <img src="https://img.shields.io/badge/Code-PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" />
+  <img src="https://img.shields.io/badge/Code-TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Tools-LLM_Tooling-informational?style=for-the-badge&logo=openai&logoColor=white&color=4B8BBE" />
   <img src="https://img.shields.io/badge/Tools-Open_Source_Dev-informational?style=for-the-badge&logo=github&logoColor=white&color=181717" />
   <img src="https://img.shields.io/badge/Tools-Chatbot_Dev-informational?style=for-the-badge&logo=botpress&logoColor=white&color=00BFB3" />
-  <img src="https://img.shields.io/badge/Tools-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" />
-  <img src="https://img.shields.io/badge/Tools-Rasa-informational?style=for-the-badge&logo=rasa&logoColor=white&color=00BFB3" />
-  <img src="https://img.shields.io/badge/Code-PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" />
-  <img src="https://img.shields.io/badge/Code-TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Tools-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000" />
+  <img src="https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
   <img src="https://img.shields.io/badge/Tools-SciKit_Learn-informational?style=for-the-badge&logo=scikitlearn&logoColor=white&color=F7931E" />
   <img src="https://img.shields.io/badge/Tools-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=150458" />
   <img src="https://img.shields.io/badge/Tools-Matplotlib-informational?style=for-the-badge&logo=matplotlib&logoColor=white&color=003B57" />
   <img src="https://img.shields.io/badge/Tools-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
   <img src="https://img.shields.io/badge/Tools-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
   <img src="https://img.shields.io/badge/Tools-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" />
-  <img src="https://img.shields.io/badge/Tools-Jupyter_notebook-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626" />
-  
-  
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Tools-Rasa-informational?style=for-the-badge&logo=rasa&logoColor=white&color=00BFB3" />
+  <img src="https://img.shields.io/badge/Tools-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" />
+  <img src="https://img.shields.io/badge/Tools-Jupyter_notebook-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626" />  
 </p>
 
 ### Additional Tools & Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/Tools-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=007396" />
-  <img src="https://img.shields.io/badge/Tools-C-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC" />
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=007396" />
+  <img src="https://img.shields.io/badge/Code-C-informational?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC" />
   <img src="https://img.shields.io/badge/Tools-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=DD0031" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" />
