@@ -2,7 +2,7 @@
 <h3 align="left"> AI ENGINEER  | 📍Silicon Valley of India</h3>
 &nbsp;
 
-It all started back in 2012 when I first saw my uncle working his magic with lines of code (lowkey a Tony Stark vibes moment). Since then, I’ve been hooked on programming!
+It all started back in 2014 when I first saw my uncle working his magic with lines of code (lowkey a Tony Stark vibes moment). Since then, I’ve been hooked on programming!
 &nbsp;
 
 Fast forward to today, and I’m proud to be working as an AI Engineer, developing smart tools and creating systems that breathe life into AI applications. Through it all, I still keep my uncle’s favorite Steve Jobs quote close to heart: "*Stay Hungry. Stay Foolish.*"
