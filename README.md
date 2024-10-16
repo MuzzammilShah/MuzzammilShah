@@ -1,4 +1,4 @@
-<h2 align="left"> Hello, I'm Muzzammil :) </h2>
+<h3 align="left"> Hello, I'm Muzzammil :) </h3>
 
 It all started back in 2014 when I first saw my uncle working his magic with lines of code (lowkey a Tony Stark vibes moment). Since then, I’ve been hooked on programming!
 &nbsp;
