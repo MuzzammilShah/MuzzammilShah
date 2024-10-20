@@ -18,10 +18,10 @@ Fast forward to today, and I’m proud to be working in the dynamic field of AI,
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tools-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FCC624" width="105" height="22" />
-  <img src="https://img.shields.io/badge/Tools-Jupyter_notebook-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626" width="130" height="22" />
-  <img src="https://img.shields.io/badge/Tools-LLM_Tooling-informational?style=for-the-badge&logo=openai&logoColor=white&color=4B8BBE" width="120" height="22" />
-  <img src="https://img.shields.io/badge/Tools-Open_Source_Dev-informational?style=for-the-badge&logo=github&logoColor=white&color=181717" width="140" height="22" />
-  <img src="https://img.shields.io/badge/Tools-Chatbot_Dev-informational?style=for-the-badge&logo=botpress&logoColor=white&color=00BFB3" width="120" height="22" />
+  <img src="https://img.shields.io/badge/Tools-Jupyter_notebook-informational?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626" width="150" height="22" />
+  <img src="https://img.shields.io/badge/Tools-LLM_Tooling-informational?style=for-the-badge&logo=openai&logoColor=white&color=4B8BBE" width="140" height="22" />
+  <img src="https://img.shields.io/badge/Tools-Open_Source_Dev-informational?style=for-the-badge&logo=github&logoColor=white&color=181717" width="150" height="22" />
+  <img src="https://img.shields.io/badge/Tools-Chatbot_Dev-informational?style=for-the-badge&logo=botpress&logoColor=white&color=00BFB3" width="130" height="22" />
   <img src="https://img.shields.io/badge/Tools-Rasa-informational?style=for-the-badge&logo=rasa&logoColor=white&color=00BFB3" width="95" height="22" />
 </p>
 
