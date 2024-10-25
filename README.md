@@ -13,6 +13,7 @@ Fast forward to today, and I’m proud to be working in the dynamic field of AI,
   <img src="https://img.shields.io/badge/Code-PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" width="105" height="22" />
   <img src="https://img.shields.io/badge/Code-TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" width="105" height="22" />
   <img src="https://img.shields.io/badge/Tools-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=000000" width="105" height="22" />
+  <img src="https://img.shields.io/badge/Tools-React-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB" width="105" height="22" />
   <img src="https://img.shields.io/badge/Tools-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248" width="105" height="22" />
   </p>
 
